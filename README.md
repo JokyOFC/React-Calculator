@@ -7,7 +7,7 @@ This project is a calculator made in react to be used for the study of the frame
 ## Screenshots
 
 <div align='center'>
-    <img src='https://raw.githubusercontent.com/JokyOFC/React-Calculator/master/screenshots/screenshot.png' width='500' height='500' />
+    <img src='https://raw.githubusercontent.com/JokyOFC/React-Calculator/master/screenshots/screenshot.png' />
 </div>
 
 ## Instalation
